@@ -1,0 +1,15 @@
+<h1>Simple-Twitterapp</h1>
+<p>Use the textbox below to tweet</p>
+<%= form_tag("pages/tweet") do %>
+  <%= label_tag(:t, "Tweet:") %>
+  <%= text_field_tag(:t) %>
+  <%= submit_tag("Tweet") %>
+<% end %>
+<br/><br/>
+
+<h2>List of Registered Users</h2>
+<% @users.each do |user| %>
+  <p>User: <%= user.name %> </p>
+<% end %>
+
+

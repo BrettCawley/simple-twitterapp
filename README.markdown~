@@ -1,0 +1,7 @@
+# Simple TWitter App using MongoDB, Mongoid, Omniauth and Twitter Gems
+
+Setup:
+Go to dev.Twitter.com to get your application's Keys. Replace the X's in the app with your respective keys. Full tutorial can be found here.
+
+Contributions welcome; I don't claim to be an experienced rails developer
+
