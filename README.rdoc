@@ -5,7 +5,7 @@ Go to http://dev.twitter.com to get your application's Keys. Replace the X's in
 * controllers/application_controller.rb 
 with your respective keys. 
 
-Full tutorial blog link will be added soon
+Full tutorial blog link will be added in the future
 
 == Contributions
 More than welcome; I don't claim to be an experienced rails developer
